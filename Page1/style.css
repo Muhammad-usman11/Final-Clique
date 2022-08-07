@@ -388,7 +388,7 @@ text-align: center;
   line-height: 22px;
   text-align: center;
   color: #666666;
-  max-width: 500px;
+  /* max-width: 500px; */
 margin: auto;
 margin-top: 25px;
 
